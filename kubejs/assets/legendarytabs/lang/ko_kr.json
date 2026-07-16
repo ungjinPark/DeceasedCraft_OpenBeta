@@ -1,0 +1,15 @@
+{
+    "tooltip.legendarytabs.tab.backpack.description":  "배낭",
+    "tooltip.legendarytabs.tab.body_damage.description":  "신체 건강",
+    "tooltip.legendarytabs.tab.ftb_quests.description":  "퀘스트",
+    "tooltip.legendarytabs.tab.ftb_teams.description":  "팀",
+    "tooltip.legendarytabs.tab.inventory.description":  "보관함",
+    "tooltip.legendarytabs.tab.reskillable.description":  "기술",
+    "tooltip.legendarytabs.tab.reskillable_reimagined.description":  "기술",
+    "tooltip.legendarytabs.tab.map_atlases.description":  "지도",
+    "tooltip.legendarytabs.tab.xaeros_map.description":  "지도",
+    "tooltip.legendarytabs.tab.journey_map.description":  "지도",
+    "tooltip.legendarytabs.tab.diet.description":  "식단",
+    "tooltip.legendarytabs.tab.passive_skill_tree.description":  "스킬 트리",
+    "tooltip.legendarytabs.tab.pufferfish_skills.description":  "스킬 트리"
+}

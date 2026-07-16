@@ -1,0 +1,23 @@
+{
+    "language":  "영어",
+    "language.code":  "en_us",
+    "language.region":  "미국",
+    "block.engineered_schematics.schematic_table_block":  "회로도 테이블",
+    "desc.engineered_schematics.schematic_table":  "회로도 테이블",
+    "itemGroup.engineered_schematics":  "엔지니어링 회로도",
+    "engineered_schematics.gui.schematic_table.mirror":  "미러됨",
+    "item.engineered_schematics.multiblock_schematic.specific":  "%s 회로도",
+    "item.engineered_schematics.multiblock_schematic.specific.mirrored":  "미러된 %s 회로도",
+    "item.engineered_schematics.multiblock_schematic":  "빈 회로도",
+    "desc.engineered_schematics.info.schematic.size":  "%s",
+    "desc.engineered_schematics.info.schematic.block_info":  "재료를 보려면 [%s]을(를) 누르세요",
+    "desc.engineered_schematics.info.schematic.no_multiblock":  "빈 회로도",
+    "desc.engineered_schematics.info.schematic.moved":  "회로도 이동됨",
+    "desc.engineered_schematics.info.schematic.rotated":  "회로도 회전됨",
+    "desc.engineered_schematics.info.schematic.placed":  "(크리에이티브 전용) 회로도 배치됨",
+    "desc.engineered_schematics.info.schematic.tier":  "%s을(를) 사용하여 만들 수 있습니다.",
+    "desc.engineered_schematics.info.schematic.ie_tier":  "엔지니어의 망치",
+    "item.engineered_schematics.multiblock_schematic.formed":  "완료",
+    "item.engineered_schematics.multiblock_schematic.error":  "블록 오류",
+    "manual.engineered_schematics.main":  "엔지니어링 회로도"
+}
